@@ -1,4 +1,4 @@
-public class Exo2 {
+public class Exo12 {
 
 
     
